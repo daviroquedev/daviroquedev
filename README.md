@@ -14,6 +14,9 @@
 </div>
  
  <br>
+
+ <h2>Um pouco sobre mim:</h2>
+<p> Mudei de careira no inicio do ano de 2022 estou me dedicando ao máximo para virar um bom dev, quero focar na carreira mobile usando React-Native. Fiz a trilha de aprendizado front-end onde aprendi HTML,CSS e JavaScript e agora estou aprendendo React-Native. No meu linkedin você encontra mais informações. </p>
  
   ### MINHAS REDES SOCIAIS
  
