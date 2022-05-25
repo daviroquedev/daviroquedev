@@ -14,6 +14,8 @@
 </div>
  
  <br>
+ <img src="https://camo.githubusercontent.com/2161a192024072eb9c7fcf30ce6c592508d418a704c8d7745e2e53c590df473f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d706962726f7468657273267468656d653d64656661756c7426636f6c6f723d626c7565267374796c653d666f722d7468652d6261646765266c6162656c3d50726f66696c652b5669657773">
+ <br>
 
  <h2>Um pouco sobre daviroquedev:</h2>
 <p> Mudei de careira no inicio do ano de 2022 estou me dedicando ao máximo para virar um bom dev, quero focar na carreira mobile usando React-Native. Fiz a trilha de aprendizado front-end onde aprendi HTML,CSS e JavaScript e agora estou aprendendo React-Native. No meu linkedin você encontra mais informações. </p>
