@@ -18,7 +18,7 @@
  <br>
 
  <h2>Um pouco sobre daviroquedev:</h2>
-<p> Mudei de careira no inicio do ano de 2022 estou me dedicando ao máximo para virar um bom dev, quero focar na carreira mobile usando React-Native. Fiz a trilha de aprendizado front-end onde aprendi HTML,CSS e JavaScript e agora estou aprendendo React-Native. No meu linkedin você encontra mais informações. </p>
+<p> Estou focando em aprender a desenvolver Front-End, fiz uma trilha estudando HTML, CSS, Javascript, Git e agora estou aprendendo React e React-Native. Gosto de estudar além da faculdade, sou viciado em fazer e comprar cursos, sou colaborativo em trabalhos em grupo, gosto de ajudar os outros e de aprender cada vez mais. Passo maior parte do meu tempo na frente do computador, seja jogando, estudando ou apenas assistindo algo, sempre fui o rapaz do computador na minha família. Estou em busca de vagas de estágio em front-end para que eu possa por meus estudos em prática e conseguir evoluir como pessoa e como desenvolvedor.</p>
  
   ### MINHAS REDES SOCIAIS
  
