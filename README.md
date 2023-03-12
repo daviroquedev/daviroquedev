@@ -18,7 +18,7 @@
  <br>
 
  <h2>Um pouco sobre daviroquedev:</h2>
-<p> Estou focando em aprender e melhorar no desenvolvimento web FullStack, fiz uma trilha estudando HTML, CSS, Javascript, Git e agora estou aprendendo React, React-Native e Node. Gosto de estudar além da faculdade, sou colaborativo em trabalhos em grupo, gosto de ajudar os outros e de aprender cada vez mais. Passo maior parte do meu tempo na frente do computador, seja jogando, estudando ou apenas assistindo algo, sempre fui o rapaz do computador na minha família. Estou em busca de vagas de estágio em desenvolvimento web para que eu possa por meus estudos em prática e conseguir evoluir como pessoa e como desenvolvedor.</p>
+ <p> Estou focando em aprender e melhorar no desenvolvimento web FullStack, fiz uma trilha estudando HTML, CSS, Javascript, Git e estou há um ano desenvolvendo com React, React-Native e Node. Sou apaixonado pelo aprendizado continuo, sou colaborativo em trabalhos em grupo, gosto de ajudar os outros e de aprender cada vez mais. Passo maior parte do meu tempo na frente do computador, seja jogando, estudando ou apenas assistindo algo, sempre fui o rapaz do computador na minha família e amigos..</p>
  <p>Também tenho curiosidade e vontade de aprender sobre outras tecnologias, minha paixão na verdade é resolver problemas e superar desafios, a linguagem é só a ferramenta para isso. </p>
  
   ### MINHAS REDES SOCIAIS
