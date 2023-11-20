@@ -18,7 +18,8 @@
  <br>
 
  <h2>Um pouco sobre daviroquedev:</h2>
- <p> Estou focando em aprender e melhorar no desenvolvimento web FullStack, fiz uma trilha estudando HTML, CSS, Javascript, Git e estou há um ano desenvolvendo com React, React-Native e Node. Sou apaixonado pelo aprendizado continuo, sou colaborativo em trabalhos em grupo, gosto de ajudar os outros e de aprender cada vez mais. Passo maior parte do meu tempo na frente do computador, seja jogando, estudando ou apenas assistindo algo, sempre fui o rapaz do computador na minha família e amigos..</p>
+ <p>Atualmente trabalho no desenvolvimento ágil e responsivo de interfaces Web e Mobile, utilizando tecnologias de ponta. Estive envolvido ativamente na criação de aplicações Web com React, Javascript e PHP Laravel Blade. Porém atualmente participo do desenvolvimento Mobile para Android/iOS, empregando o framework Ionic Capacitor, e integrando recursos vitais, como Firebase, APNS, push notifications e websockets.
+O que também incluiu o gerenciamento do processo de deploy de novas versões do aplicativo nas plataformas da App Store e Play Store, garantindo uma experiência contínua e aprimorada aos usuários. Também sou Monitor no Curso FullStack da Digital College Fortaleza, auxiliando os alunos no aprendizado. </p>
  <p>Também tenho curiosidade e vontade de aprender sobre outras tecnologias, minha paixão na verdade é resolver problemas e superar desafios, a linguagem é só a ferramenta para isso. </p>
  
   ### MINHAS REDES SOCIAIS
