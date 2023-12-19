@@ -17,10 +17,23 @@
  <img src="https://camo.githubusercontent.com/2161a192024072eb9c7fcf30ce6c592508d418a704c8d7745e2e53c590df473f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d706962726f7468657273267468656d653d64656661756c7426636f6c6f723d626c7565267374796c653d666f722d7468652d6261646765266c6162656c3d50726f66696c652b5669657773">
  <br>
 
- <h2>Um pouco sobre daviroquedev:</h2>
- <p>Atualmente trabalho no desenvolvimento ágil e responsivo de interfaces Web e Mobile, utilizando tecnologias de ponta. Estive envolvido ativamente na criação de aplicações Web com React, Javascript e PHP Laravel Blade. Porém atualmente participo do desenvolvimento Mobile para Android/iOS, empregando o framework Ionic Capacitor, e integrando recursos vitais, como Firebase, APNS, push notifications e websockets.
-O que também incluiu o gerenciamento do processo de deploy de novas versões do aplicativo nas plataformas da App Store e Play Store, garantindo uma experiência contínua e aprimorada aos usuários. Também sou Monitor no Curso FullStack da Digital College Fortaleza, auxiliando os alunos no aprendizado. </p>
- <p>Também tenho curiosidade e vontade de aprender sobre outras tecnologias, minha paixão na verdade é resolver problemas e superar desafios, a linguagem é só a ferramenta para isso. </p>
+## Um pouco sobre daviroquedev:
+ Me chamo Davi Roque, fui lider da turma de Análise e desenvolvimento de Sistemas de Uninassau durante toda a faculdade. Gosto de ajudar e sempre ser pro-ativo.
+ 
+### 👨‍💻 Sobre Mim</h2>
+<p>Atualmente, estou imerso no desenvolvimento ágil e responsivo de interfaces Web e Mobile, explorando o universo do Flutter. Anteriormente, estive envolvido ativamente na criação de aplicações Web com React, Javascript e PHP Laravel Blade. No entanto, minha paixão atual é o desenvolvimento Mobile para Android/iOS, trabalhei durante quase um ano empregando o framework Ionic Capacitor e integrando recursos vitais, como Firebase, APNS, push notifications e websockets na IQNUS Tecnologia.
+</p>
+
+### 🚀 Transição para Flutter
+Agora estou na minha transição para o Flutter, na Diamond Solutions e a experiência tem sido empolgante e desafiadora. Estou entusiasmado com a versatilidade e a eficiência que essa tecnologia oferece para o desenvolvimento Mobile. A capacidade de criar interfaces incríveis de forma rápida e eficaz é algo que me cativou profundamente, e estou comprometido em explorar todas as suas possibilidades para criar experiências de usuário excepcionais.
+
+### 🌱 Aprendizado Contínuo
+Estou sempre buscando novos desafios e aprendendo sobre tecnologias emergentes. Para mim, a linguagem é apenas uma ferramenta para resolver problemas e superar desafios, e a mudança para Flutter tem sido uma oportunidade emocionante para expandir meu conjunto de habilidades.
+
+### 🎓 Além do Trabalho
+Além do meu trabalho diário, sou Monitor no Curso FullStack da Digital College Fortaleza, onde contribuo para o crescimento e aprendizado dos alunos. E acabo aprendendo coisas novas, pois todo mundo tem algo a ensinar.
+
+
  
   ### MINHAS REDES SOCIAIS
  
