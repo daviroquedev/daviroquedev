@@ -18,7 +18,7 @@
  <br>
 
 ## Um pouco sobre daviroquedev:
- Me chamo Davi Roque, fui lider da turma de Análise e desenvolvimento de Sistemas de Uninassau durante toda a faculdade. Gosto de ajudar e sempre ser pro-ativo.
+ Me chamo Davi Roque, fui lider da turma de Análise e desenvolvimento de Sistemas de Uninassau durante toda a faculdade. Gosto de ajudar e sempre tento ser pro-ativo.
  
 ### 👨‍💻 Sobre Mim</h2>
 <p>Atualmente, estou imerso no desenvolvimento ágil e responsivo de interfaces Web e Mobile, explorando o universo do Flutter. Anteriormente, estive envolvido ativamente na criação de aplicações Web com React, Javascript e PHP Laravel Blade. No entanto, minha paixão atual é o desenvolvimento Mobile para Android/iOS, trabalhei durante quase um ano empregando o framework Ionic Capacitor e integrando recursos vitais, como Firebase, APNS, push notifications e websockets na IQNUS Tecnologia.
