@@ -17,21 +17,16 @@
 
  <br>
 
-## Um pouco sobre daviroquedev:
- Me chamo Davi Roque, fui lider da turma de Análise e desenvolvimento de Sistemas de Uninassau durante toda a faculdade. Gosto de ajudar e sempre tento ser pro-ativo.
- 
-### 👨‍💻 Sobre Mim</h2>
-<p>Atualmente, estou imerso no desenvolvimento ágil e responsivo de interfaces Web e Mobile, explorando o universo do Flutter. Anteriormente, estive envolvido ativamente na criação de aplicações Web com React, Javascript e PHP Laravel Blade. No entanto, minha paixão atual é o desenvolvimento Mobile para Android/iOS, trabalhei durante quase um ano empregando o framework Ionic Capacitor e integrando recursos vitais, como Firebase, APNS, push notifications e websockets na IQNUS Tecnologia.
-</p>
+I'm a full-stack mobile developer with experience in Ionic, Flutter, and React. With nearly 3 years of experience in these technologies, I've also been responsible for developing APIs in Java using Java Spring Boot in my current job. I value effective communication, believing it makes a significant difference in our field, always striving for clarity and dedicated to the company's success. Additionally, I volunteer as a monitor in a full-stack course with JavaScript, React, and Node, providing support to both students and instructors. My hobby is gaming and learning about pentesting.
 
-### 🚀 Transição para Flutter
-Agora estou na minha transição para o Flutter, na Diamond Solutions e a experiência tem sido empolgante e desafiadora. Estou entusiasmado com a versatilidade e a eficiência que essa tecnologia oferece para o desenvolvimento Mobile. A capacidade de criar interfaces incríveis de forma rápida e eficaz é algo que me cativou profundamente, e estou comprometido em explorar todas as suas possibilidades para criar experiências de usuário excepcionais.
-
-### 🌱 Aprendizado Contínuo
-Estou sempre buscando novos desafios e aprendendo sobre tecnologias emergentes. Para mim, a linguagem é apenas uma ferramenta para resolver problemas e superar desafios, e a mudança para Flutter tem sido uma oportunidade emocionante para expandir meu conjunto de habilidades.
-
-### 🎓 Além do Trabalho
-Além do meu trabalho diário, sou Monitor no Curso FullStack da Digital College Fortaleza, onde contribuo para o crescimento e aprendizado dos alunos. E acabo aprendendo coisas novas, pois todo mundo tem algo a ensinar.
+Year of XP:
+- JavaScript: 2.7
+- React: 1.9
+- Node: 0.8
+- Ionic: 0.9
+- Jquery: 0.9
+- Flutter: 0.10 Currently working
+- Java: 0.7 Currently working
 
 
  
