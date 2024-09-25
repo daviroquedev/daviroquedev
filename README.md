@@ -1,16 +1,24 @@
 ## Bem-vindo(a) ao perfil do Davi Roque 😁
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daviroquedev&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviroquedev&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
  <div>
   <a href="https://github.com/daviroquedev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviroquedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviroquedev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+    <br>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
- 
+  <img align="center" alt="FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg">
+  <img align="center" alt="DART" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-plain-wordmark.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg">
 </div>
  
  <br>
@@ -22,11 +30,14 @@ I'm a full-stack mobile developer with experience in Ionic, Flutter, and React. 
 Year of XP:
 - JavaScript: 2.7
 - React: 1.9
-- Node: 0.8
+- Flutter: 1.0 Currently working
+- Java: 0.9 Currently working
 - Ionic: 0.9
 - Jquery: 0.9
-- Flutter: 0.10 Currently working
-- Java: 0.7 Currently working
+- Node: 0.8
+
+
+
 
 
  
